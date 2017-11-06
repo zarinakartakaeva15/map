@@ -1,15 +1,14 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "geometry": {
-        "type": "MultiPoint",
         "coordinates": [
           [
             37.571298748323,
             55.682806921335
           ]
-        ]
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
         "DatasetId": 495,
@@ -110,13 +109,13 @@
     },
     {
       "geometry": {
-        "type": "MultiPoint",
         "coordinates": [
           [
             37.718514574853,
             55.685873427249
           ]
-        ]
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
         "DatasetId": 495,
@@ -550,20 +549,19 @@
           "ClarificationOfWorkingHours": "Закрыт на капитальный ремонт",
           "WebSite": "mos-kino.ru",
           "NumberOfHalls": 3
-        },
-        "marker-color": "#111111"
+        }
       },
       "type": "Feature"
     },
     {
       "geometry": {
-        "type": "MultiPoint",
         "coordinates": [
           [
             37.802542213804,
             55.749856350226
           ]
-        ]
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
         "DatasetId": 495,
@@ -664,13 +662,13 @@
     },
     {
       "geometry": {
-        "type": "MultiPoint",
         "coordinates": [
           [
             37.442905679029,
             55.846061587503
           ]
-        ]
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
         "DatasetId": 495,
@@ -771,13 +769,13 @@
     },
     {
       "geometry": {
-        "type": "MultiPoint",
         "coordinates": [
           [
             37.67655120948,
             55.861865414301
           ]
-        ]
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
         "DatasetId": 495,
@@ -878,13 +876,13 @@
     },
     {
       "geometry": {
-        "type": "MultiPoint",
         "coordinates": [
           [
             37.513397905715,
             55.665294620796
           ]
-        ]
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
         "DatasetId": 495,
@@ -1319,13 +1317,13 @@
     },
     {
       "geometry": {
-        "type": "MultiPoint",
         "coordinates": [
           [
             37.731486249364,
             55.710878760587
           ]
-        ]
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
         "DatasetId": 495,
@@ -1420,13 +1418,13 @@
     },
     {
       "geometry": {
-        "type": "MultiPoint",
         "coordinates": [
           [
             37.602035656597,
             55.752389186903
           ]
-        ]
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
         "DatasetId": 495,
@@ -1803,13 +1801,13 @@
     },
     {
       "geometry": {
-        "type": "MultiPoint",
         "coordinates": [
           [
             37.636570015095,
             55.818688276424
           ]
-        ]
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
         "DatasetId": 495,
@@ -2268,13 +2266,13 @@
     },
     {
       "geometry": {
-        "type": "MultiPoint",
         "coordinates": [
           [
             37.647549431649,
             55.851975495106
           ]
-        ]
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
         "DatasetId": 495,
@@ -2679,13 +2677,13 @@
     },
     {
       "geometry": {
-        "type": "MultiPoint",
         "coordinates": [
           [
             37.571216153281,
             55.81440541104
           ]
-        ]
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
         "DatasetId": 495,
@@ -2786,13 +2784,13 @@
     },
     {
       "geometry": {
-        "type": "MultiPoint",
         "coordinates": [
           [
             37.657054408977,
             55.759788995594
           ]
-        ]
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
         "DatasetId": 495,
@@ -3085,13 +3083,13 @@
     },
     {
       "geometry": {
-        "type": "MultiPoint",
         "coordinates": [
           [
             37.705595234275,
             55.764364609881
           ]
-        ]
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
         "DatasetId": 495,
@@ -3468,13 +3466,13 @@
     },
     {
       "geometry": {
-        "type": "MultiPoint",
         "coordinates": [
           [
             37.716203434384,
             55.751790155202
           ]
-        ]
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
         "DatasetId": 495,
@@ -3788,13 +3786,13 @@
     },
     {
       "geometry": {
-        "type": "MultiPoint",
         "coordinates": [
           [
             37.49532971044,
             55.795156587519
           ]
-        ]
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
         "DatasetId": 495,
@@ -3886,21 +3884,7 @@
         }
       },
       "type": "Feature"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff0080",
-        "marker-size": "medium",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.901458740234375,
-          55.7742558445822
-        ]
-      }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
